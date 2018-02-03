@@ -1,1 +1,3 @@
-print("Hello, World.\n" + input())
+var = input()
+print("Hello,world)
+print(var)
